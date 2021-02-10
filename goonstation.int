@@ -1,10 +1,13 @@
 // BEGIN_INTERNALS
 /*
-MAP_ICON_TYPE: 0
-WINDOW: maps\trunkmap.dmm
+MAP_ZOOM: 1.000
+LAST_COMPILE_TIME: 1612944581
+DIR: code code\defines code\defines\obj code\defines\obj\clothing code\game code\game\gamemodes code\game\gamemodes\wizard code\game\machinery code\game\machinery\atmoalter code\game\machinery\doors code\game\objects code\game\objects\items code\game\objects\items\weapons code\modules code\modules\admin code\modules\mob maps 
 UPDATE_OBJ_TREE: ON
-DIR: maps 
-FILE: maps\trunkmap.dmm
 AUTO_FILE_DIR: ON
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 513.1517
+WINDOW: maps\trunkmap.dmm;code\game\machinery\status_display.dm;code\game\vote.dm;code\defines\obj\weapon.dm;code\defines\obj\clothing.dm;code\defines\obj\clothing\gimmick.dm;code\game\gamemodes\wizard\spell14.dm;code\game\machinery\vending.dm;code\game\machinery\atmoalter\canister.dm;code\game\objects\items\weapons\grenades.dm;code\game\objects\items\weapons\metals_rods.dm;code\modules\admin\admin.dm;code\game\machinery\doors\door.dm;code\game\machinery\doors\airlock.dm;code\game\machinery\doors\firedoor.dm;code\modules\mob\mob.dm;code\game\throwing.dm
+FILE: code\game\throwing.dm
 */
 // END_INTERNALS
